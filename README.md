@@ -8,7 +8,9 @@
 |2017~현재|경원산업(주) 부설연구소|연구원|
 
 <h1> 📑 Bachelor thesis </h1></div>
->> * 2022년
+
+* 2022년
+
 <div align=center><h1> 💁🏻‍♀️ Project </h1></div>
 
 <div align=center><h1> ✨ Tech Stack ✨ </h1></div>
