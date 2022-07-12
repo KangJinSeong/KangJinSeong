@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=JinSeongKang&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff&desc=Github%20Profile&descAlign=85&descAlignY=62)
 
-<div align=center><h1> :deciduous_tree: 👨🏻‍🎓 Education </h1></div>
+<div align=center><h1> 👨🏻‍🎓 Education </h1></div>
 
-<div align=center><h1> :deciduous_tree: 📑 Bachelor thesis </h1></div>
+<div align=center><h1> 📑 Bachelor thesis </h1></div>
 
-<div align=center><h1> :deciduous_tree: 💁🏻‍♀️ Project </h1></div>
+<div align=center><h1> 💁🏻‍♀️ Project </h1></div>
 
 <div align=center><h1> ✨ Tech Stack ✨ </h1></div>
 
@@ -21,7 +21,7 @@
 
 
 
-<div align=center><h1> :deciduous_tree: 🚀ACTIVITES </h1></div>
+<div align=center><h1>  🚀ACTIVITES </h1></div>
 
-<div align=center><h1> :deciduous_tree: 📞 Contact Me </h1></div>
+<div align=center><h1>  📞 Contact Me </h1></div>
 
