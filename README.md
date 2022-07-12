@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=JinSeongKang&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff&desc=Github%20Profile&descAlign=85&descAlignY=62)
 
 <div align=center><h1> 👨🏻‍🎓 Education </h1></div> 
+
 |년도|내용|비고|
 |:-----:|:-----:|:-----:|
 |2012~2018|제주대학교 해양시스템공학과| 학사 졸업|
