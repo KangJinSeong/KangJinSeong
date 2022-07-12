@@ -7,9 +7,7 @@
     <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/><img alt="MicroPython"     src="https://img.shields.io/badge/MicroPython-2B2728.svg?&style=for-the-badge&logo=MicroPython&logoColor=white"/>
 
     
-poetry install             # 의존성 설치
-poetry shell               # 가상환경에 진입
-python manage.py runserver # 서버 실행  
+ 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=KangJinSeong)](https://solved.ac/KangJinSeong)<br/>
-
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={KangJinSeong})](https://solved.ac/{KangJinSeong})
 
