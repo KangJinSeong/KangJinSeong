@@ -25,14 +25,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KangJinSeong)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![KangJinSeong's github stats](https://github-readme-stats.vercel.app/api?username=KangJinSeong&show_icons=true)    
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KangJinSeong&repo=github-readme-stats)](https://github.com/KangJinSeong/github-readme-stats)
-    
-    
-[![KangJinSeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KangJinSeong&langs_count=8)](https://github.com/KangJinSeong/github-readme-stats)
-
-Top Langs
-
   
   
 <h1> 🚀ACTIVITES </h1></div>
