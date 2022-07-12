@@ -10,3 +10,7 @@
  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangJinSeong&layout=compact)](https://github.com/KangJinSeong/github-readme-stats)
+
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangJinSeong&show_icons=true&theme=radical)
+
