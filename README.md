@@ -8,5 +8,5 @@
 
 <div align=center><h1>  Languages ✨ </h1></div>
 
-![KanJinSeong's github stats](https://github-readme-stats.vercel.app/api?username=KanJinSeong&show_icons=true)
+![KangJinSeong's github stats](https://github-readme-stats.vercel.app/api?username=KanJinSeong&show_icons=true)
 
