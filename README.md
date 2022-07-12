@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=JinSeongKang&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff&desc=Github%20Profile&descAlign=85&descAlignY=62)
 
-<div align=center> <h1> 👨🏻‍🎓 Education </h1></div> 
+<h1> 👨🏻‍🎓 Education </h1></div> 
 
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;년도&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;내용&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;비고&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|년도|내용|비고|
 |:-----:|:-----:|:-----:|
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2012~2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;제주대학교 해양시스템공학과&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;학사 졸업&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2012~2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;제주대학교 해양시스템공학과&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;학사 졸업&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |2017~현재|경원산업(주) 부설연구소|연구원|
 
 <div align=center><h1> 📑 Bachelor thesis </h1></div>
