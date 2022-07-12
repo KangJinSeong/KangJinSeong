@@ -11,7 +11,9 @@
 
 * 2022년
 
-<div align=center><h1> 💁🏻‍♀️ Project </h1></div>
+<h1> 💁🏻‍♀️ Project </h1></div>
+
+* 2022년
 
 <div align=center><h1> ✨ Tech Stack ✨ </h1></div>
 
@@ -28,7 +30,10 @@
 
 
 
-<div align=center><h1>  🚀ACTIVITES </h1></div>
+<h1>  🚀ACTIVITES </h1></div>
+
+* 
 
 <div align=center><h1>  📞 Contact Me </h1></div>
 
+* Email: JinSeong0726@gmail.com 
