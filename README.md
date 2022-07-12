@@ -27,11 +27,11 @@
 ![KangJinSeong's github stats](https://github-readme-stats.vercel.app/api?username=KangJinSeong&show_icons=true)    
   
   
-<h1> 🚀ACTIVITES </h1></div>
+<h1> 🚀ACTIVITES </h1>
 
 * 2022 
 
 
-<h1> 📞 Contact Me </h1></div>
+<h1> 📞 Contact Me </h1>
 
 * Email: JinSeong0726@gmail.com 
