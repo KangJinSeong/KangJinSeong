@@ -8,11 +8,12 @@
 |2017~현재|경원산업(주) 부설연구소|연구원|
 
 <div align=center> <h1> 📑 Bachelor thesis </h1></div>
-<div align=center>
-    * 2022년
+
+   * 2022년
 
 <div align=center> <h1> 💁🏻‍♀️ Project </h1></div>
-* 2022년
+
+   * 2022년
 
 <div align=center> <h1> ✨ Tech Stack ✨ </h1></div>
 
@@ -31,8 +32,8 @@
 
 <div align=center> <h1> 🚀ACTIVITES </h1></div>
 
-* 
+   * 2022 
 
 <div align=center> <h1> 📞 Contact Me </h1></div>
 
-* Email: JinSeong0726@gmail.com 
+   * Email: JinSeong0726@gmail.com 
