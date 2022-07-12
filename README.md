@@ -8,4 +8,6 @@
 
     
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangJinSeong&langs_count=8)](https://github.com/KangJinSeong/github-readme-stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangJinSeong&langs_count=8)](https://github.com/KangJinSeong/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangJinSeong&layout=compact)](https://github.com/KangJinSeong/github-readme-stats)
