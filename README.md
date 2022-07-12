@@ -6,8 +6,10 @@
 <div align="center">
     <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/><img alt="MicroPython"     src="https://img.shields.io/badge/MicroPython-2B2728.svg?&style=for-the-badge&logo=MicroPython&logoColor=white"/>
 
+    
+    
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={KangjinSeong})](https://solved.ac/{KangjinSeongs})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={KangJinSeong})](https://solved.ac/{KangJinSeongs})
  
 
 
