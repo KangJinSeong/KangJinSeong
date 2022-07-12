@@ -2,7 +2,7 @@
 
 <div align=center> <h1> 👨🏻‍🎓 Education </h1></div> 
 
-|년도|내용|비고|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;년도&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;내용&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;비고&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:-----:|:-----:|:-----:|
 |2012~2018|제주대학교 해양시스템공학과| 학사 졸업|
 |2017~현재|경원산업(주) 부설연구소|연구원|
