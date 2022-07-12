@@ -3,9 +3,9 @@
 
 
 <div align="center">
-  ## ✨Front-end-Stack✨
+##✨Front-end-Stack✨
 <div align="center">
-  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/><img alt="MicroPython"     src="https://img.shields.io/badge/MicroPython-2B2728.svg?&style=for-the-badge&logo=MicroPython&logoColor=white"/>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/><img alt="MicroPython"     src="https://img.shields.io/badge/MicroPython-2B2728.svg?&style=for-the-badge&logo=MicroPython&logoColor=white"/>
 
 
 :telephone_receiver: 
