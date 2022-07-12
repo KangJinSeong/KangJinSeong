@@ -7,10 +7,8 @@
     <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/><img alt="MicroPython"     src="https://img.shields.io/badge/MicroPython-2B2728.svg?&style=for-the-badge&logo=MicroPython&logoColor=white"/>
 
 
-<div align="center">
-    [![trophy](https://github-profile-trophy.vercel.app/?username=KangJinSeong)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KangJinSeong)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div align="center">    
-    ![KangJinSeong's github stats](https://github-readme-stats.vercel.app/api?username=KangJinSeong&show_icons=true)    
-    [![KangJinSeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KangJinSeong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/KangJinSeong)
+![KangJinSeong's github stats](https://github-readme-stats.vercel.app/api?username=KangJinSeong&show_icons=true)    
+[![KangJinSeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KangJinSeong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/KangJinSeong)
 
