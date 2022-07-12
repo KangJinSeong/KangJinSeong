@@ -8,6 +8,4 @@
 
     
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=KangJinSeong)](https://solved.ac/KangJinSeong)<br/>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={KangJinSeong})](https://solved.ac/{KangJinSeong})
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangJinSeong&langs_count=8)](https://github.com/KangJinSeong/github-readme-stats
