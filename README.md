@@ -66,9 +66,11 @@
 
 # 📊 GitHub Stats & Top Languages
 
-![KangJinSeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangJinSeong&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangJinSeong&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KangJinSeong&show_icons=true&theme=radical" alt="stats" />
+  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KangJinSeong&layout=compact&theme=radical" alt="top langs" />
+</div>
  
 <h1>🚀ACTIVITES</h1>
 
