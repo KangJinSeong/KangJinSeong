@@ -22,13 +22,15 @@
 
 * 해양수산부 산하 아래 국책과제인 어구자동식별 모니터링 시스템 개발 과제를 2017 ~ 2024.06까지 공동연구 개발기관인 경원산업(주)에서 참여중
 
-  -> 업무 적용 결과: UAT(python) 및 UA Tracker(Python, Labview 프로젝트) 달성
+  -> 업무 적용 결과: UAT(python, C언어) 및 UA Tracker(Python, Labview 프로젝트) 달성, 수중 스마트 맵칭 시스템 기초 설계, 수중 전자어구 관리시스템 기초 설계,USBL(Ultra Short BaseLine) 수중 배열센서 기초설계
+  -> 신호처리 핵심기술: Chirp Spread Spectrum 수중음향통신 알고리즘 개발, 다중접솝(1:N) 수중음향통신 알고리즘 개발, 수중음향통신 수신기 펌웨어 개발
+                      USBL(Ultra Short BaseLine) 수중 위치확인 시스템 펌웨어 개발
 * 해양수산부 산하 아래 국책과제인 해양장비개발 및 인프라 구축 사업을 2017~ 2020까지 공동연구 개발기관인 경원산업(주)에서 참여함
 
-  -> 업무 적용 결과: Acoustic Tranducer 제작/평가
+  -> 업무 적용 결과: Acoustic Tranducer 제작, 수중음향센서 TVR(Transmit Voltage Response), RVS(Receiving Voltage Sensitivity), 빔 패턴(Beam Patten) 평가
 * 소방청 산하 아래 국책과제인 재난상황 소방대원의 수중/야외 연속 위치 추적 시스템 기술 개발 과제를 2022 ~ 2024까지 공동연구 개발기관인 경원산업(주)에서 참여중
 
-  -> 업무 적용 결과: Acoustic Tranducer 제작/평가
+  -> 업무 적용 결과: Acoustic Tranducer 제작/평가, 수중음향센서 TVR(Transmit Voltage Response), RVS(Receiving Voltage Sensitivity), 빔 패턴(Beam Patten) 평가
  * 해양 수산부 산하 아래 국책과제인 해양재난 대응을 위한 3차원 해수유동(조류,해류)관측기술 개발 과제를 2021~2025년까지 공동 연구 개발기관인 경원산업(주)에서 참여중
 
    -> 업무 적용 결과: Repeater(Python을 활용한 MQTT 클라우드 프로젝트), A-DSP(Python을 활용한 Matched Filtering 프로젝트), Labview Stystem(디지털 신호처리 및 GUI 프로젝트) 
