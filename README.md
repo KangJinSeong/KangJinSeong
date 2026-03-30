@@ -14,7 +14,7 @@
 * 2021년 수중 음향 태그 및 그의 제어 시스템 및 제어 방법 특허 등록
 * 2024년 밴드페스 멀티프렉싱 위상상관기 신호처리 기반 정밀 분해능 실시간 유속측정수중음향토모그래피 시스템 특허 등록
 * 2025년 Verification of Phase Correlator Computational Capability by Simulation in Acoustic Tomography Systems 논문
-* 수중 음햔센서의 경시 변화를 보상할 수 있는 수중 음향 토모그래피 시스템 특허 출원
+* 수중 음향센서의 경시 변화를 보상할 수 있는 수중 음향 토모그래피 시스템 특허 출원
 * 그외 국제 학회 발표 2건, 국내 학회 발표 2건
 
 
@@ -27,10 +27,9 @@
 * 소방청 산하 아래 국책과제인 재난상황 소방대원의 수중/야외 연속 위치 추적 시스템 기술 개발 과제를 2022 ~ 2024까지 공동연구 개발기관인 경원산업(주)에서 참여중
  -> 업무 적용 결과: Acoustic Tranducer 제작/평가
  * 해양 수산부 산하 아래 국책과제인 해양재난 대응을 위한 3차원 해수유동(조류,해류)관측기술 개발 과제를 2021~2025년까지 공동 연구 개발기관인 경원산업(주)에서 참여중
-  -> 업무 적용 결과: Repeater(Python을 활용한 MQTT 클라우드 프로젝트), A-DSP(Python을 활용한 Matched Filtering 프로젝트), Labview Stystem(디지털 신호처리 및 GUI 프로젝트)
- * 해양 수산부 산하 아래 국책과제인 해양재난 대응을 위한 3차원 해수유동(조류,해류)관측기술 개발 과제를 2021~2025년까지 공동 연구 개발기관인 경원산업(주)에서 참여중
-  -> 업무 적용 결과: Repeater(Python을 활용한 MQTT 클라우드 프로젝트), A-DSP(Python을 활용한 Matched Filtering 프로젝트), Labview Stystem(디지털 신호처리 및 GUI 프로젝트)  
- * 국방기술[header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=JinSeongKang&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff&desc=Github%20Profile&descAlign=85&descAlignY=62)
+  -> 업무 적용 결과: Repeater(Python을 활용한 MQTT 클라우드 프로젝트), A-DSP(Python을 활용한 Matched Filtering 프로젝트), Labview Stystem(디지털 신호처리 및 GUI 프로젝트) 
+ * 국방기술진흥연구소 산하 아래 무기체계 부품국산화 개발 지원 사업 핵심부품과제인 장보고급 잠수함 측심기용 부품 3종 개발 과제를 2025~2028년 까지 주관 연구개발 기관인 경원산업(주)에서 참여중
+  -> 업무 적용 결과: 하드웨어적 디지털 신호처리(고속MCU를 이용한 시스템제어 프로젝트), 소프트웨어적 디지털 신호처리(Labview를 이용한 Matchen Filtering 프로젝트), Labview Stystem(GUI 프로젝트)
 
 <h1> 👨🏻‍🎓 Education </h1>
 
@@ -49,19 +48,7 @@
 * 수중 음햔센서의 경시 변화를 보상할 수 있는 수중 음향 토모그래피 시스템 특허 출원
 * 그외 국제 학회 발표 2건, 국내 학회 발표 2건
 
-
-<h1> 💁🏻‍♀️ Project </h1>
-
-* 해양수산부 산하 아래 국책과제인 어구자동식별 모니터링 시스템 개발 과제를 2017 ~ 2024.06까지 공동연구 개발기관인 경원산업(주)에서 참여중
- -> 업무 적용 결과: UAT(python) 및 UA Tracker(Python, Labview 프로젝트) 달성
-* 해양수산부 산하 아래 국책과제인 해양장비개발 및 인프라 구축 사업을 2017~ 2020까지 공동연구 개발기관인 경원산업(주)에서 참여함
- -> 업무 적용 결과: Acoustic Tranducer 제작/평가
-* 소방청 산하 아래 국책과제인 재난상황 소방대원의 수중/야외 연속 위치 추적 시스템 기술 개발 과제를 2022 ~ 2024까지 공동연구 개발기관인 경원산업(주)에서 참여중
- -> 업무 적용 결과: Acoustic Tranducer 제작/평가
- * 해양 수산부 산하 아래 국책과제인 해양재난 대응을 위한 3차원 해수유동(조류,해류)관측기술 개발 과제를 2021~2025년까지 공동 연구 개발기관인 경원산업(주)에서 참여중
-  -> 업무 적용 결과: Repeater(Python을 활용한 MQTT 클라우드 프로젝트), A-DSP(Python을 활용한 Matched Filtering 프로젝트), Labview Stystem(디지털 신호처리 및 GUI 프로젝트) 
- * 국방기술진흥연구소 산하 아래 무기체계 부품국산화 개발 지원 사업 핵심부품과제인 장보고급 잠수함 측심기용 부품 3종 개발 과제를 2025~2028년 까지 주관 연구개발 기관인 경원산업(주)에서 참여중
-  -> 업무 적용 결과: 하드웨어적 디지털 신호처리(고속MCU를 이용한 시스템제어 프로젝트), 소프트웨어적 디지털 신호처리(Labview를 이용한 Matchen Filtering 프로젝트), Labview Stystem(GUI 프로젝트) 
+ 
 <div align=center> <h1> ✨ Tech Stack ✨ </h1></div>
 
 <div align="center">
