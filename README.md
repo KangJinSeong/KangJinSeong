@@ -66,19 +66,8 @@
 
 <div align="center">
   <h1>💡 My Github Stats 💡</h1>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KangJinSeong&theme=flat&column=7" alt="trophy" />
-  </a>
-</div>
+  [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자명)](https://github.com/사용자명/github-readme-stats)
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KangJinSeong&show_icons=true&theme=radical" alt="stats" height="170" />
-  <a href="https://github.com/KangJinSeong">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangJinSeong&show_icons=true&hide_border=true&layout=compact&theme=radical" alt="top langs" height="170" />
-  </a>
-</div>
  
 <h1>🚀ACTIVITES</h1>
 
