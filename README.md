@@ -54,27 +54,30 @@
 * 그외 국제 학회 발표 2건, 국내 학회 발표 2건
 
  
-<div align=center> <h1> ✨ Tech Stack ✨ </h1></div>
-
 <div align="center">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
-    <img alt="LabVIEW" src="https://img.shields.io/badge/LabVIEW-FFDB00.svg?style=for-the-badge&logo=LabVIEW&logoColor=black"/>
-    <img alt="MicroPython" src="https://img.shields.io/badge/MicroPython-2B2728.svg?style=for-the-badge&logo=MicroPython&logoColor=white"/>
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+  <h1>✨ Tech Stack ✨</h1>
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/LabVIEW-FFDB00.svg?style=for-the-badge&logo=LabVIEW&logoColor=black" alt="LabVIEW"/>
+  <img src="https://img.shields.io/badge/MicroPython-2B2728.svg?style=for-the-badge&logo=MicroPython&logoColor=white" alt="MicroPython"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/>
 </div>
 
-<div align="center">
-    <h1>💡 My Github Stats 💡</h1>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=KangJinSeong" alt="trophy"/>
-    </a>
-</div>
+<br/>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KangJinSeong&show_icons=true" alt="KangJinSeong's github stats"/>
-    <a href="https://github.com/KangJinSeong">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangJinSeong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" alt="top langs"/>
-    </a>
+  <h1>💡 My Github Stats 💡</h1>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KangJinSeong&theme=flat&column=7" alt="trophy"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KangJinSeong&show_icons=true&theme=radical" alt="KangJinSeong's github stats" height="170px"/>
+  <a href="https://github.com/KangJinSeong">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangJinSeong&show_icons=true&hide_border=true&layout=compact&theme=radical" alt="top langs" height="170px"/>
+  </a>
 </div>
  
 <h1>🚀ACTIVITES</h1>
