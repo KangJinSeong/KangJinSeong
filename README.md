@@ -36,23 +36,6 @@
 
    -> 업무 적용 결과: 하드웨어적 디지털 신호처리(고속MCU를 이용한 시스템제어 프로젝트), 소프트웨어적 디지털 신호처리(Labview를 이용한 Matchen Filtering 프로젝트), Labview Stystem(GUI 프로젝트)
 
-<h1> 👨🏻‍🎓 Education </h1>
-
-|년도|내용|비고|
-|:-----:|:-----:|:-----:|
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2012~2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;제주대학교 해양시스템공학과&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;학사 졸업&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-|2017~현재|경원산업(주) 미래연구소|선임연구원|
-
-<h1> 📑 Bachelor thesis </h1>
-
-* 2020년 수중_전자어구_식별을_위한_효율적인_초음파_통신기법_구현 논문 
-* 2020년 수중 음향 태그 및 그의 제어 시스템 및 제어 방법 특허 출원
-* 2021년 수중 음향 태그 및 그의 제어 시스템 및 제어 방법 특허 등록
-* 2024년 밴드페스 멀티프렉싱 위상상관기 신호처리 기반 정밀 분해능 실시간 유속측정수중음향토모그래피 시스템 특허 등록
-* 2025년 Verification of Phase Correlator Computational Capability by Simulation in Acoustic Tomography Systems 논문
-* 수중 음햔센서의 경시 변화를 보상할 수 있는 수중 음향 토모그래피 시스템 특허 출원
-* 그외 국제 학회 발표 2건, 국내 학회 발표 2건
-
  
 <div align="center">
   <h1>✨ Tech Stack ✨</h1>
