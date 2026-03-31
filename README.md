@@ -30,7 +30,7 @@
 
 ### 📡 Signal Processing & Communication Theory
 * **아날로그 및 디지털 통신이론**: 통신 시스템 분석/설계 및 성능 분석 기법 습득
-* **디지털 신호처리 (DSP)**: `Z-변환`, `디지털 필터` 설계, `DFT` 분석 및 Python 기반 SW 구현 능력 확보
+* **디지털 신호처리 (DSP)**: `Z-변환`,`디지털 필터` 설계,`DFT` 분석 및 Python 기반 SW 구현 능력 확보
 * **수중 음향**: 연속시간/이산시간 신호 분석을 통한 수중 환경 신호처리 최적화
 
 ### 🌐 Network & IoT Programming
